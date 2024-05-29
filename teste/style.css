@@ -1,0 +1,38 @@
+#titulo {
+    height: 200px;
+    size: 200%;
+    background-color: rgb(139, 18, 18);
+    color: white;
+}
+#css{
+    font-family: verdana;
+    font-size: 300%;
+}
+.it{
+    text-align: justify;
+    font-size: 150%;
+    color: white;
+}
+#antes {
+    background-image: url("antes.jpg");
+    background-size: 200px;
+    width: 200px;
+    height: 260px;
+}
+#depois {
+    background-image: url("depois.jpg");
+    background-size: 200px;
+    width: 200px;
+    height: 260px;
+}
+.h2{
+    font-size: 200%;
+    color: white;
+}
+img{
+    width: 600px;
+}
+.link{
+    color: aqua;
+    height: 200px;
+}
