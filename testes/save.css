@@ -1,0 +1,19 @@
+#antes {
+    background-image: url("antes.jpg");
+    background-size: 200px;
+    width: 200px;
+    height: 260px;
+}
+#depois {
+    background-image: url("depois.jpg");
+    background-size: 200px;
+    width: 200px;
+    height: 260px;
+}
+.it {
+align-items: center;
+    font-family: ap;
+    text-align: justify;
+    font-size: 150%;
+    color: white;
+}
